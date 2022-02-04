@@ -50,17 +50,25 @@ This project contains a library with some drawing functions, and some sample app
 
 Draws a simple fire effect
 
+![Fire](/images/fire.png)
+
 ### Plasma
 
 Draws a simple plasma effect
+
+![Plasma](/images/plasma.png)
 
 ### Clock
 
 Draws a clock with a 7 segment LED style font.  Some sprites walk across the screen occasionally.  At 10s before midnight New Year's eve, it will countdown the last 10 seconds of the year, then disaplay fireworks and scroll "HAPPY NEW YEAR" for 10 minutes.  Technically, it runs every night at 11:59:50 because I am lazy and need to fix it.
 
+![Clock](/images/clock.png)
+
 ### Scroller
 
 Demo of scrolling text.
+
+![Scroller Demo](/images/scroller.png)
 
 ### matrixgfx library
 
